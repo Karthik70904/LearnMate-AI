@@ -1,7 +1,4 @@
 # LearnMate-AI
-IBM
-
-# LearnMate-AI
 
 ## Overview
 
